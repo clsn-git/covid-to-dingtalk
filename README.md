@@ -11,5 +11,5 @@
 - import sys
 
 ### 文件说明
-covid_19_overseas.py:采集信息
+covid_19_overseas.py:采集信息  
 covid_19_to_dingtalk.py:发送消息到钉钉
